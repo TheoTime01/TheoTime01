@@ -3,7 +3,7 @@
 
 - 💻 All of my projects are available at <web site>
 
-- 📫 How to reach me **perrichettheo@gmail.com **
+- 📫 How to reach me **theotime.perrichet@cpe.fr **
 
 
 
