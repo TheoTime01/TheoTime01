@@ -1,4 +1,4 @@
-<img src="https://github.com/TheoTime01/TheoTime01/blob/main/Pack%20typographique%20des%20pixels%20dynamiques_free.gif?raw=true" alt="react" align="center" width="" />
+<img src="https://github.com/TheoTime01/TheoTime01/blob/main/gif_intro.gif?raw=true" alt="react" align="center" width="" />
 <h3 align="center">A passionate in Robotics and Computer Science from France</h3>
 
 - 💻 All of my projects are available at <web site>
