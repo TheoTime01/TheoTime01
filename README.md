@@ -1,8 +1,6 @@
 <img src="https://github.com/TheoTime01/TheoTime01/blob/main/gif_intro.gif?raw=true" alt="react" align="center" width="" />
 <h3 align="center">A passionate in Robotics and Computer Science from France</h3>
 
-- 💻 All of my projects are available at <web site>
-
 - 📫 How to reach me **theotime.perrichet@cpe.fr **
 
 
