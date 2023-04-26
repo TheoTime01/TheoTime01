@@ -1,6 +1,5 @@
 # 💫 About Me:
-<img src="https://github.com/TheoTime01/TheoTime01/blob/main/gif_intro.gif?raw=true" alt="react" align="center" width="" />
-<h3 align="center">A passionate in Robotics and Computer Science from France</h3>
+student engineer in electronics, telecommunication and computer science specialized in service robotics.<br>
 
 
 ## 🌐 Socials:
